@@ -1,6 +1,9 @@
-# SteamVR-Gestures
+# SteamVR Gesture Recording and Gesture Detection 
  
- Game developers are always creatively seeking methods to alter game mechanics to provide new and unique experiences. Several virtual reality games depend on collidable objects in the simulation. When the player's hand/s (controller/s) gets near the collidable object, a button or trigger press is usually required to interact with that object. But how do we trigger actions when there are no tangible objects in the simulation? If we look at smart touch devices, it seems that the more ways a user can interact with the device the more we demand gestures to extend the functionality of the devices in terms of human computer interaction. Gesture recognition can also potentially be the right tool to enhance VR game mechanics. In virtual reality players now have a headset and two controllers. All three hardware parts can move and rotate independently throughout time therefore there is a huge range of possible gestures that can be captured. Once these gestures are captured there may be several creative solutions in their applications. One of the creative solutions that I envisioned is that developers can use gesture recognition to detect when a player performs an action that does not require a virtual collidable object. An example of this is players doing a choreographed dance. The gestures of the dance can be recorded. And a feedback UI can be displayed to the user based on how well they performed this dance. This can be extended to various other applications such as workplace training and medical procedures. In other cases, gesture recognition could eventually provide users with alternate methods for in game communication and menu navigation.
+This SteamVR gesture recording package for developers enables the developer to quickly record gestures and tune them to be easily achivable by players regarless of pysical limitations. The package is split into three primary components:
+1. Gesture Recording
+2. Gesture Detection
+3. Post Gesture Handling
 
 ## Run in Browser
 
