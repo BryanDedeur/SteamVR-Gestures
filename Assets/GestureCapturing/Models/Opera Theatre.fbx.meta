@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: c498b6ebe2e02f043bb976611dad9388
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Part1Mtl
+    2100002: Light1Mtl
+    2100004: Column1Mtl
+    2100006: Floor1Mtl
+    2100008: Ceiling1Mtl
+    2100010: Woodensupport1Mtl
+    2100012: Part129Mtl
+    2100014: Part135Mtl
+    2100016: Part206Mtl
+    2100018: Part207Mtl
+    2100020: Part242Mtl
+    2100022: Part264Mtl
+    2100024: Breacherfloor1Mtl
+    2100026: Floor13Mtl
+    2100028: Ceiling8Mtl
+    2100030: Rooftopconcrete1Mtl
+    2100032: Wedge3Mtl
+    2100034: Wedge4Mtl
+    2100036: Partfacade4Mtl
+    2100038: Covering1Mtl
+    2100040: Part549Mtl
+    2100042: Overhead1Mtl
+    2100044: Part600Mtl
+    2100046: Part602Mtl
+    2100048: Roofbackcorner1Mtl
+    2100050: Roofpart1Mtl
+    2100052: Rooffoundation2Mtl
+    2100054: Part740Mtl
+    2100056: Part784Mtl
+    2100058: Covering53Mtl
+    2100060: Part2253Mtl
+    2100062: Part2256Mtl
+    2100064: Ramp1Mtl
+    2100066: Union1Mtl
+    2100068: Union2Mtl
+    2100070: Breacherfence1Mtl
+    2100072: Breacherfence5Mtl
+    2100074: Part2369Mtl
+    2100076: Wedge570Mtl
+    2100078: Part2417Mtl
+    2100080: Part3118Mtl
+    2100082: Part3215Mtl
+    2100084: Woodenfence1Mtl
+    2100086: Stageplatform1Mtl
+    2100088: Railing1Mtl
+    2100090: Union2050Mtl
+    2100092: Part3514Mtl
+    2100094: Part3526Mtl
+    2100096: Curtainl31Mtl
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Georgian Opera Theatre
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
