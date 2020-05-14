@@ -2959,7 +2959,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aac4213b756655c4db939253181e9b3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  captureFrequencySeconds: 0
+  captureFrequencySeconds: 0.1
   visualRenderMaterial: {fileID: 2100000, guid: c8af8b1dea36b2e428caca2c12ba9e47,
     type: 2}
   visuallineColor:
@@ -5701,6 +5701,7 @@ GameObject:
   - component: {fileID: 2046892820}
   - component: {fileID: 2046892819}
   - component: {fileID: 2046892823}
+  - component: {fileID: 2046892824}
   m_Layer: 5
   m_Name: GestureCanvas
   m_TagString: Untagged
@@ -5804,6 +5805,21 @@ MonoBehaviour:
   delay: 5
   speed: 0.001
   rect: {fileID: 2046892822}
+--- !u!114 &2046892824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2046892818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2a096da736e6b446b03eebcdc244458, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textElements:
+  - {fileID: 38732521}
+  updateFrequency: 0
 --- !u!1 &2080135576
 GameObject:
   m_ObjectHideFlags: 0
