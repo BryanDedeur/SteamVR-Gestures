@@ -1,9 +1,9 @@
 # SteamVR Gesture Recording and Gesture Detection 
  
-This SteamVR gesture recording package for developers enables the developer to quickly record gestures and tune them to be easily achivable by players regarless of pysical limitations. The package is split into three primary components:
+This SteamVR gesture recording package for developers enables the developer to quickly record gestures and tune them to be easily achivable by players regarless of physical limitations. The package is split into three primary components:
 1. Gesture Recording
-2. Gesture Detection
-3. Post Gesture Handling
+2. Gesture Training
+3. Gesture Detection / Post Gesture Handling
 
 ## Run in Browser
 
@@ -27,7 +27,7 @@ Beyond what Unity Engine provides, all the source code for this project was writ
 
 ## Metadata
 
-CS484 Virtual Reality
-University of Nevada, Reno  
-Instructors: Eelke Folmer, Paul Macneilage
+CS484 Virtual Reality  
+University of Nevada, Reno     
+Instructors: Eelke Folmer, Paul Macneilage  
 Developed By: Bryan Dedeurwaerder  
