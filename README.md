@@ -17,7 +17,7 @@ To view the running simulation visit this link: https://www.cse.unr.edu/~bryand/
 
 ## Source Code
 
-Beyond what Unity Engine provides, all the source code for this project was written in C#. The location of the source code can be located under Assets -> Scripts. Visual Studio v15.9.21 was the primary IDE used for development. All version control was managed through this repository.
+Beyond what Unity Engine provides, all the source code for this project was written in C#. The location of the source code can be located under Assets \ GestureCapturing \ Scripts. Visual Studio v15.9.21 was the primary IDE used for development. All version control was managed through this repository.
 
 ## Development Software
 - Unity Hub v2.3.0
