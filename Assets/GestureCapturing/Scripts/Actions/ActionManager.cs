@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Author: Bryan Dedeurwaerder
+ * Project: Unity Gesture Recognition
+ * Date: 5/12/2020
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

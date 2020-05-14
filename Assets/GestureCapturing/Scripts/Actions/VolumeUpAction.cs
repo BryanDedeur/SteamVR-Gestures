@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Author: Bryan Dedeurwaerder
+ * Project: Unity Gesture Recognition
+ * Date: 5/12/2020
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -13,7 +19,7 @@ public class VolumeUpAction : Action
 
     private void Awake()
     {
-        audio.time = 1800;
+        audio.time = 0;
     }
     public override void Play()
     {

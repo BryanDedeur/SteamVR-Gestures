@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Author: Bryan Dedeurwaerder
+ * Project: Unity Gesture Recognition
+ * Date: 5/12/2020
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -168,6 +174,8 @@ public class Recording : MonoBehaviour
             if (index < LHpoints.Count - 1)
             {
                 LHpoints[index].material.SetColor("_Color", new Color(1, 0, 0, .5f));
+                LHpoints[index].material.SetColor("_EmissionColor", new Color(1, 0, 0, .5f));
+
             }
         }
     }
@@ -179,6 +187,7 @@ public class Recording : MonoBehaviour
             if (index < RHpoints.Count - 1)
             {
                 RHpoints[index].material.SetColor("_Color", new Color(1, 0, 0, .5f));
+                RHpoints[index].material.SetColor("_EmissionColor", new Color(1, 0, 0, .5f));
             }
         }
     }
@@ -190,6 +199,8 @@ public class Recording : MonoBehaviour
             foreach (MeshRenderer mr in LHpoints)
             {
                 mr.material.SetColor("_Color", new Color(1, 1, 1, .1f));
+                mr.material.SetColor("_EmissionColor", new Color(1, 1, 1, .1f));
+
             }
         }
     }
@@ -201,6 +212,7 @@ public class Recording : MonoBehaviour
             foreach(MeshRenderer mr in RHpoints)
             {
                 mr.material.SetColor("_Color", new Color(1, 1, 1, .1f));
+                mr.material.SetColor("_EmissionColor", new Color(1, 1, 1, .1f));
             }
         }
     }

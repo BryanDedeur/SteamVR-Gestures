@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Author: Bryan Dedeurwaerder
+ * Project: Unity Gesture Recognition
+ * Date: 5/12/2020
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -19,7 +25,7 @@ public class LightsOffAction : Action
     public override void InterpolateToProgress(float percentage)
     {
         LightManager.inst.SetLightBrightness(1 - percentage);
-        if (percentage > .98)
+        if (1 - percentage < .2f)
         {
             if (!switchAudio.isPlaying)
             {
